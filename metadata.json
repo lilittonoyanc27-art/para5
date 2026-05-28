@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Past Tenses: Gor & Gayane",
+  "description": "Իսպաներենի անցյալ ժամանակաձևերի ուսուցում հայերենով և 6 հետաքրքիր 3D մրցութային խաղեր Գոռի և Գայանեի միջև",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
